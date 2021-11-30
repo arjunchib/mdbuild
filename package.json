@@ -6,8 +6,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Arjun Chib",
   "license": "ISC",
+  "keywords": [
+    "markdown",
+    "build",
+    "html",
+    "site",
+    "framework"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arjunchib/mdbuild.git"
+  },
   "dependencies": {
     "fast-glob": "^3.2.7",
     "marked": "^4.0.5"
