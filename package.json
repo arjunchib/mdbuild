@@ -1,0 +1,15 @@
+{
+  "name": "mdbuild",
+  "version": "0.1.0",
+  "description": "A markdown site builder",
+  "bin": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-glob": "^3.2.7",
+    "marked": "^4.0.5"
+  }
+}
